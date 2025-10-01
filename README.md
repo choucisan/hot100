@@ -2,37 +2,41 @@
   <img src="./hot100.png" width="800px" alt="Hot100 Logo"/>
 </div>
 
-# 🔥 LeetCode Hot 100 题解与用例集合
-收录 [LeetCode Hot 100](https://leetcode.cn/studyplan/top-100-liked/) 高频经典题目的项目，包含：
+# 🔥 LeetCode Hot 100 Solutions & Test Cases
+[LeetCode Hot 100](https://leetcode.cn/studyplan/top-100-liked/) This repository collects the most popular and classic problems from LeetCode Hot 100, including:
 
--  C++ 实现的高质量题解
--  每题配套的测试用例
--  注释清晰，结构清楚，适合刷题、复习、面试准备
+-  High-quality C++ solutions
+-  Test cases for each problem
+-  Clear comments and well-structured code, ideal for problem-solving practice, review, and interview preparation
+
+
 
 ---
 
-## 📁 项目结构
+## 📁 Project Structure
 ```bash
 hot100/
-├── binary_search/           # 二分查找相关题目
-├── binary_tree/             # 二叉树相关题目
-├── double_pointer/          # 双指针技巧题目
-├── dynamic/                 # 动态规划相关题目
-├── graph_theory/            # 图论题目（拓扑排序、并查集、BFS/DFS等）
-├── greedy_algorithm/        # 贪心算法题目
-├── hash/                    # 哈希表相关题目
-├── heap/                    # 堆相关题目
-├── linked_list/             # 链表相关题目
-├── matrix/                  # 矩阵与二维数组处理
-├── Mutidim_dynamic/         # 多维动态规划
-├── ordinary_array/          # 普通数组题目
-├── retrospection/           # 回溯法
-├── sliding_window/          # 滑动窗口技巧题目
-├── stack/                   # 栈相关题目
-├── substring/               # 子串与子序列类题目
-├── trick/                   # 题目技巧
-├── hot100.png               # 项目Logo
-└── README.md                # 项目说明
+
+├── binary_search/           # Binary Search related problems
+├── binary_tree/             # Binary Tree related problems
+├── double_pointer/          # Two Pointers technique problems
+├── dynamic/                 # Dynamic Programming problems
+├── graph_theory/            # Graph Theory (Topological Sort, Union-Find, BFS/DFS, etc.)
+├── greedy_algorithm/        # Greedy Algorithm problems
+├── hash/                    # Hash Table related problems
+├── heap/                    # Heap related problems
+├── linked_list/             # Linked List problems
+├── matrix/                  # Matrix & 2D Array problems
+├── Mutidim_dynamic/         # Multi-dimensional Dynamic Programming
+├── ordinary_array/          # Array problems
+├── retrospection/           # Backtracking problems
+├── sliding_window/          # Sliding Window technique problems
+├── stack/                   # Stack related problems
+├── substring/               # Substring & Subsequence problems
+├── trick/                   # Problem-solving tricks
+├── hot100.png               # Project Logo
+└── README.md                # Project Description
+
 
 ```
 📧 [choucisan@gmail.com]
